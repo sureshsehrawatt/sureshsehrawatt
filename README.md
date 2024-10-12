@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
- <img alt="GIF" src="https://pin.it/3NzHTcp9Y" />
+ <img alt="GIF" src="https://github.com/sureshsehrawatt/sureshsehrawatt/blob/main/PEACEFUL%20PANDA.gif" />
 </div>
 
 - 🔭 I’m currently working on **Optimizing application performance with a robust APM system.**
