@@ -8,7 +8,6 @@
 
 - 🔭 I’m currently working on **Optimizing application performance with a robust APM system.**
 - 🌱 I’m currently learning **to effectively bridge the gap between problems and solutions**
-- 📫 Reach me **jaisehrawat11@gmail.com**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sureshsehrawatt&show_icons=true&locale=en&layout=compact" alt="sureshsehrawatt" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sureshsehrawatt&show_icons=true&locale=en" alt="sureshsehrawatt" /></p>
