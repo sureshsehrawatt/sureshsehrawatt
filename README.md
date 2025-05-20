@@ -13,3 +13,11 @@
 - 🔭 I’m currently working on **Optimizing application performance with a robust APM system.**
 - 🌱 I’m currently learning **to effectively bridge the gap between problems and solutions**
 - 📫 Reach me **jaisehrawat11@gmail.com**
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ParthJohri/ParthJohri/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ParthJohri/ParthJohri/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/ParthJohri/ParthJohri/blob/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
